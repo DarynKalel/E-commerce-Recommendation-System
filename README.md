@@ -1,4 +1,4 @@
-###Overview
+Overview
 This project implements a recommendation system for an e-commerce platform using collaborative filtering techniques. The system analyzes user-item interactions and provides personalized product recommendations to users based on their preferences and behavior.
 
 #Background
